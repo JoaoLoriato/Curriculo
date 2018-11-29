@@ -97,7 +97,7 @@ Menor aprendiz no setor de informática, supervisionado pela COEP.
 
 * **Pós Graduação** - Segurança da Informação pela (UCL)  - **[Em Andamento]**
 * **Graduação** - Analise e Desenvolvimento de Sistemas pelo (UCV)  - **[Completo]**
-* **Técnico** - Técnico em Informática pela (Contec) **Graduação**
+* **Técnico** - Técnico em Informática pela (Contec) - **[Completo]**
 * **Curso** - Inglês Básico (CCAA)
 * **Curso** - Montagem e Manutenção (DATA CONTROL)
 * **Curso** - Banco de Dados Completo: Business Intelligence, SQL Server, MySQL, Oracle, T-SQL e PLSQL (Udemy)
