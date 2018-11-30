@@ -72,7 +72,7 @@ Serra/ES
 ## Experência Profissional
 
 * **Projetos Pessoais**
-> Trabalho atualmente em uma idéia de startup, onde desenvolvo de forma inicial um projeto utilizando C#
+> Trabalho atualmente em uma idéia de startup, onde desenvolvo de forma inicial um projeto utilizando C# com ASP .NET CORE MVC e Entity Framework. Utilizando como base projeto do curso de C#.
 
 
 * 2016/Dias Atuais - **Date Tecnologia**
