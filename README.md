@@ -28,15 +28,17 @@ Serra/ES
 * Python
 * NodeJS
 * PHP
-* C#
+* C# / MVC / Entity Framework
 * Java
 * C++
 
 
 **FrontEnd:**
 
+* JavaScript
 * ReactJS
 * React Native
+* Redux
 * HTML5
 * CSS
 
